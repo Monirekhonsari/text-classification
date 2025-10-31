@@ -1,2 +1,3 @@
 # text-classification
-"D:\Download\6-persian-topics (1).zip"
+[Download ZIP file](https://github.com/<Monirekhonsari>/<text-classification>/raw/main/6-persian-topics.zip
+)
